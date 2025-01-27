@@ -2164,13 +2164,22 @@ nussbaum_l:
   email: lucas.nussbaum@loria.fr
   homepage : http://members.loria.fr/lnussbaum
 
-o-tani_h:
-  sur_name: O-tani
+ng_k:
+  sur_name: NG
+  given_name: Kin
+  affiliation: utk
+  position:
+  topics:
+  email: kng2@utk.edu
+  homepage:
+
+o-i_h:
+  sur_name: O-i
   given_name: Hideyuki
   affiliation: riken
   position:
   topics:
-  email: h.o-tani@riken.jp
+  email: h.o-i@riken.jp
   homepage:
 
 odajima_t:
@@ -2831,13 +2840,13 @@ shimazaki_t:
   email: t-shimazaki@riken.jp
   homepage:
 
-shintani_e:
-  sur_name: Shintani
+shini_e:
+  sur_name: Shini
   given_name: Eigo
   affiliation: riken
   position:
   topics:
-  email: shintani@riken.jp
+  email: shini@riken.jp
   homepage:
 
 shoji_f:
@@ -3029,7 +3038,7 @@ tama_f:
   email: florence.tama@nagoya-u.jp
   homepage: https://www.riken.jp/en/research/labs/r-ccs/comput_struct_biol/index.html
 
-tan_n:
+_n:
   sur_name: Tan
   given_name: Nigel
   affiliation: utk
